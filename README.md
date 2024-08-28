@@ -1,10 +1,10 @@
-#User Story
+# User Story
 
 AS a developer
 I WANT to update an existing application to include additional vehicle types
 SO THAT I am able to comprehend and work with existing code bases.
 
-#Acceptence Criteria
+# Acceptence Criteria
 
 -GIVEN a command-line application that accepts user input
 
@@ -43,15 +43,65 @@ SO THAT I am able to comprehend and work with existing code bases.
 #Video Tutorial
 
 
-#License
+# License
 MIT
 
-#Description
+# Description
 I am updating an existing application that will include additional vehicle types.  I would like to create either a new vehicle or use an existing vehicle and can select between them and perform additional actions until I choose to exit.  
 
 #Usage
 
-#Contributors
+This Challenge is graded based on the following criteria:
+
+### Deliverables: 20%
+
+A walkthrough video that demonstrates the functionality of the Vehicle Builder.
+Your GitHub repository containing your application code.
+
+### Walkthrough Video: 27%
+
+The README.md file must include a link to the walkthrough video.
+
+The walkthrough video must demonstrate how a user would invoke the application from the command line.
+
+The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
+
+The walkthrough video must demonstrate all the prompts and functionality related to trucks and motorbikes working properly.
+
+### Technical Acceptance Criteria: 40%
+
+Satisfies all of the preceding acceptance criteria plus the following:
+
+Application uses the Inquirer package Links to an external site..
+
+The application must have properly implemented Truck and Motorbike classes:
+The user should be able to choose between a car, a truck, or a motorbike when creating a vehicle.
+
+The Truck and Motorbike classes must prompt the user for details that the Car class doesn't.
+
+The Truck class must allow the user to implement an action that the Car and Motorbike classes cannot.
+
+### Repository Quality: 13%
+
+Repository has a unique name.
+
+Repository follows best practices for file structure and naming conventions.
+
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+
+Repository contains multiple descriptive commit messages.
+
+Repository contains a high-quality README with description and a link to a walkthrough video.
+
+### How to Submit the Challenge
+
+You are required to submit the following for review:
+
+A walkthrough video that demonstrates the functionality of the application.
+
+The URL of the GitHub repository, with a unique name and a README describing the project.
+
+# Contributors
 Brandi Rasmussen
 
 
