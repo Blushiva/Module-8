@@ -45,7 +45,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 
 #License
 
--MIT
+MIT
 
 #Description
 I am updating an existing application that will include additional vehicle types.  I would like to create either a new vehicle or use an existing vehicle and can select between them and perform additional actions until I choose to exit.  
@@ -53,6 +53,7 @@ I am updating an existing application that will include additional vehicle types
 #Usage
 
 #Contributors
+
 Brandi Rasmussen
 
 
