@@ -26,10 +26,9 @@ import AbleToTow from '../interfaces/AbleToTow.js';
     wheels:Wheel[];
     towingCapacity:number;
   }
-
+  
     //Created a constructor that accepts the properties of the Truck class
     //The constructor calls the constructor of the parent class, Vehicle
-
   constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[], towingCapacity: number) {
     //calls the constructor of the parent class, Vehicle
     super(vin, color, make, model, year, weight, topSpeed);
