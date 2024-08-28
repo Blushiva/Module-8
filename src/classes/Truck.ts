@@ -27,22 +27,17 @@ import AbleToTow from '../interfaces/AbleToTow.js';
     towingCapacity:number;
   }
 
-    // TODO: Create a constructor that accepts the properties of the Truck class
-      constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[], towingCapacity: number) {
-        super();
-        this.vin = vin;
-        this.color = color;
-        this.make = make;
-        this.model = model;
-        this.year = year;
-        this.weight = weight;
-        this.topSpeed = topSpeed;
-        this.wheels = wheels.length === 4 ? wheels : [new Wheel(), new Wheel(), new Wheel(), new Wheel()];
-        this.towingCapacity = towingCapacity;
-      }
+    //Created a constructor that accepts the properties of the Truck class
+    //The constructor calls the constructor of the parent class, Vehicle
 
-    // TODO: The constructor should call the constructor of the parent class, Vehicle
+  constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[], towingCapacity: number) {
+    super(vin, color, make, model, year, weight, topSpeed);
+    this.wheels = wheels.length === 4 ? wheels : [new Wheel(), new Wheel(), new Wheel(), new Wheel()];
+    this.towingCapacity = towingCapacity;
+  }
     // TODO: The constructor should initialize the properties of the Truck class
+
+
     // TODO: The constructor should check if the wheels array has 4 elements and create 4 new default Wheel objects if it does not
 
   // TODO: Implement the tow method from the AbleToTow interface
