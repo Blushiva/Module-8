@@ -28,6 +28,18 @@ import AbleToTow from '../interfaces/AbleToTow.js';
   }
 
     // TODO: Create a constructor that accepts the properties of the Truck class
+      constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[], towingCapacity: number) {
+        super();
+        this.vin = vin;
+        this.color = color;
+        this.make = make;
+        this.model = model;
+        this.year = year;
+        this.weight = weight;
+        this.topSpeed = topSpeed;
+        this.wheels = wheels.length === 4 ? wheels : [new Wheel(), new Wheel(), new Wheel(), new Wheel()];
+        this.towingCapacity = towingCapacity;
+      }
 
     // TODO: The constructor should call the constructor of the parent class, Vehicle
     // TODO: The constructor should initialize the properties of the Truck class
