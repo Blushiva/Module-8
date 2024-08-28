@@ -62,7 +62,7 @@ class Cli {
           name: 'vehicleType',
           message: 'Select a vehicle type',
           //Updated the choices array to include Truck and Motorbike
-          choices: ['Car'], ['Truck'], ['Motorbike'],
+          choices: ['Car', 'Truck', 'Motorbike'],
         },
       ])
       .then((answers) => {
