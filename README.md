@@ -49,7 +49,7 @@ MIT
 # Description
 I am updating an existing application that will include additional vehicle types.  I would like to create either a new vehicle or use an existing vehicle and can select between them and perform additional actions until I choose to exit.  
 
-#Usage
+# Usage
 
 This Challenge is graded based on the following criteria:
 
