@@ -21,6 +21,7 @@ import { parse } from "path";
 // This line declares a property named [`selectedVehicleVin`] The [`string`]indicates that 
 // [`selectedVehicleVin`] can store a string value, while [`undefined`] indicates that it can 
 // also be assigned the value [`undefined`]. 
+// This property is likely used to store the VIN (Vehicle Identification Number) of the currently selected vehicle.
 // exit: boolean = false;
 // This line declares a property named of EXIT of type boolean and initializes it with the value [`false`]. When [`exit`]is set to `true`, the program will terminate.
 // Overall, these lines of code define properties within the [`Cli`] class 
