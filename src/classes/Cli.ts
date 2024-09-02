@@ -154,10 +154,10 @@ class Cli {
   }
 
   // method to create a truck
-          // TODO: Use the answers object to pass the required properties to the Truck constructor
-        // TODO: push the truck to the vehicles array
-        // TODO: set the selectedVehicleVin to the vin of the truck
-        // TODO: perform actions on the truck
+          // Used the answers object to pass the required properties to the Truck constructor
+        // pushed the truck to the vehicles array
+        // set the selectedVehicleVin to the vin of the truck
+        // performed actions on the truck
 
   createTruck(): void {
     inquirer
