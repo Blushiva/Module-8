@@ -7,7 +7,7 @@ import Cli from "./classes/Cli.js";
 
 // create an array of vehicles
 
-const vehicles: (Truck | Car | Motorbike)[] = [];
+const vehicles: Array<Truck | Car | Motorbike> = [];
 
 
 // uncommented once trucks are implemented
