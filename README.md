@@ -1,4 +1,6 @@
-# Module 8
+# Description
+
+Module 8 Adding and Modyfying Classes to Existing Code
 
 An application that allows the user to take the existing application and add to it, the point is to understand and use existing code.   
 
@@ -7,6 +9,17 @@ An application that allows the user to take the existing application and add to 
 AS a developer
 I WANT to update an existing application to include additional vehicle types
 SO THAT I am able to comprehend and work with existing code bases.
+
+# Table of Contents
+
+- [Description](https://github.com/Blushiva/Module-8?tab=readme-ov-file#module-8)
+- [User Story](https://github.com/Blushiva/Module-8?tab=readme-ov-file#user-story)
+- [Acceptance Criteria](https://github.com/Blushiva/Module-8?tab=readme-ov-file#acceptence-criteria)
+- [Table of Contents]()
+- [Video Demonstration]()
+- [Installation]()
+- [Contributing Resources]()
+- [Questions](#questions)
 
 # Acceptence Criteria
 
@@ -44,7 +57,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 
 -THEN I can perform additional actions until I choose to exit
 
-#Video Tutorial
+# Video Tutorial
 [Video Tutorial](https://www.youtube.com/watch?v=V0_XVUjEuvU)
 
 
