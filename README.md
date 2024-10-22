@@ -15,11 +15,19 @@ SO THAT I am able to comprehend and work with existing code bases.
 - [Description](https://github.com/Blushiva/Module-8?tab=readme-ov-file#module-8)
 - [User Story](https://github.com/Blushiva/Module-8?tab=readme-ov-file#user-story)
 - [Acceptance Criteria](https://github.com/Blushiva/Module-8?tab=readme-ov-file#acceptence-criteria)
-- [Table of Contents]()
-- [Video Demonstration]()
+- [Table of Contents](https://github.com/Blushiva/Module-8?tab=readme-ov-file#table-of-contents)
+- [Video Tutorial](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#video-tutorial)
+-[License](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#license)
 - [Installation]()
-- [Contributing Resources]()
-- [Questions](#questions)
+- [Contributor](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#contributors)
+-[Additional Resources](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#additional-resources)
+
+
+# Installation
+
+NPM install
+NPM build
+NPM start
 
 # Acceptence Criteria
 
@@ -119,7 +127,7 @@ A walkthrough video that demonstrates the functionality of the application.
 
 The URL of the GitHub repository, with a unique name and a README describing the project.
 
-# Contributors
+# Contributor
 Brandi Rasmussen
 
 # Additional Resources
