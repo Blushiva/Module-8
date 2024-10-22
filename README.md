@@ -1,3 +1,7 @@
+# Module 8
+
+An application that allows the user to take the existing application and add to it, the point is to understand and use existing code.   
+
 # User Story
 
 AS a developer
