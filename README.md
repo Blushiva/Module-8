@@ -20,6 +20,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 -[License](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#license)
 - [Installation]()
 - [Contributor](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#contributors)
+
 -[Additional Resources](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#additional-resources)
 
 
