@@ -20,8 +20,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 -[License](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#license)
 - [Installation]()
 - [Contributor](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#contributors)
-
--[Additional Resources](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#additional-resources)
+- [Additional Resources](https://github.com/Blushiva/Module-8/tree/main?tab=readme-ov-file#additional-resources)
 
 
 # Installation
@@ -133,6 +132,13 @@ Brandi Rasmussen
 
 # Additional Resources
 
+[Adding to additional classes without duplication](https://screeps.com/forum/topic/2748/typescript-adding-to-existing-classes-without-duplication)
+
+[How to use classes in Typescript](https://www.digitalocean.com/community/tutorials/how-to-use-classes-in-typescript)
+
+[How to extend a Class without a subclass](https://medium.com/ringcentral-developers/how-to-extend-an-existing-typescript-class-ef2bfe4b6690)
+
+[Typescript extends multiple classes](https://www.dhiwise.com/post/typescript-extends-multiple-classes-a-deep-dive)
 
 
 
