@@ -26,6 +26,9 @@ import Wheel from './Wheel.js';
 // parameters used to initialize the properties of the Motorbike class
 // The Motorbike class extend the Vehicle class
 class Motorbike extends Vehicle {
+  vin: string;
+  make: string;
+  model: string;
   wheels: Wheel[];
   constructor(
     vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[]) 
@@ -40,6 +43,11 @@ class Motorbike extends Vehicle {
     topSpeed: number,
     wheels: Wheel[]
   ) {
+    this.vin = vin;
+    this.make = make;
+    this.model = model;
+  }
+}
     // Call the constructor of the parent class, Vehicle
     super(vin, color, make, model, year, weight, topSpeed);
 // Initialize the properties of the Motorbike class
