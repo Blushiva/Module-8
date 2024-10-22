@@ -41,6 +41,7 @@ SO THAT I am able to comprehend and work with existing code bases.
 -THEN I can perform additional actions until I choose to exit
 
 #Video Tutorial
+[Video Tutorial](https://www.youtube.com/watch?v=V0_XVUjEuvU)
 
 
 # License
@@ -103,5 +104,9 @@ The URL of the GitHub repository, with a unique name and a README describing the
 
 # Contributors
 Brandi Rasmussen
+
+# Additional Resources
+
+
 
 
